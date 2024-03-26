@@ -8,6 +8,8 @@ Sobre mim:
 🌱 Aprendendo e desenvolvendo habilidades em análise de dados
 🏠 Atualmente moro em São José dos Campos, São Paulo
 
+<br>
+
 Principais Ferramentas:
 <div>
 <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
@@ -15,6 +17,7 @@ Principais Ferramentas:
 
 </div>
 
+<br>
 
 Onde podem me encontrar:
 <div>
