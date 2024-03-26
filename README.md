@@ -1,6 +1,6 @@
 ### Olá, sou o Marcos 👋
 
-##Explorando o mundo da tecnologia e análise de dados
+## Explorando o mundo da tecnologia e análise de dados
 
 Sobre mim:
 
