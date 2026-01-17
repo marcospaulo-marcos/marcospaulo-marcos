@@ -4,7 +4,6 @@
 
 Sobre mim:
 
-🔭 Interessado em descobrir novas oportunidades na área de tecnologia
 🌱 Aprendendo e desenvolvendo habilidades em análise de dados
 🏠 Atualmente moro em São José dos Campos, São Paulo
 
